@@ -21,7 +21,7 @@ def imagedown(url, folder):
             print('Writing: ', name)
 
 
-imagedown('https://www.airbnb.co.in/rooms/44159534?source_impression_id=p3_1621273966_IjTwJpoXuwY%2Bt%2FAA','home')
+imagedown('https://www.airbnb.co.in/rooms/44159534?source_impression_id=p3_1621273966_IjTwJpoXuwY%2Bt%2FAA','image')
 
 
 
